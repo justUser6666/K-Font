@@ -1,9 +1,13 @@
+[Click to read in Korean](/README-ko.md)
+
 # About
 
 ![enable resourcepack](/image/enable.png)
 
 - Uses an HD font in Minecraft.
 - Support Korean.
+- Support italic.
+- Support Bold.
 - Used Pretendard Font.
 - Preninedard font is included to implement italics. Its name has been changed in accordance with the license.
 - The default is bold weight, and bold text is displayed in black weight.
